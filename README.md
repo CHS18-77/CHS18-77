@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./assets/profile.png" width="190" alt="Chethan H S — AI Engineer"/>
+<img src="blob:https://web.whatsapp.com/96d438be-5e60-4fd8-8c44-398c60490e69" width="190" alt="Chethan H S — AI Engineer"/>
 
 <br/><br/>
 
