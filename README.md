@@ -36,16 +36,14 @@ class Engineer:
 
 ## `◈ THE PIPELINE`
 
-```mermaid
-flowchart LR
-    A([🔬 AI Research]) --> B([🧠 Model Development])
-    B --> C([🔌 API Integration])
-    C --> D([🚀 Real-World Apps])
-    style A fill:#070B18,stroke:#00D4FF,color:#fff,stroke-width:2px
-    style B fill:#182B55,stroke:#8B5CF6,color:#fff,stroke-width:2px
-    style C fill:#542A70,stroke:#00D4FF,color:#fff,stroke-width:2px
-    style D fill:#00D4FF,stroke:#070B18,color:#070B18,stroke-width:2px
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-AI%20RESEARCH-070B18?style=for-the-badge&labelColor=00D4FF&color=070B18" alt="AI Research"/> ➜
+<img src="https://img.shields.io/badge/02-MODEL%20DEVELOPMENT-182B55?style=for-the-badge&labelColor=8B5CF6&color=182B55" alt="Model Development"/> ➜
+<img src="https://img.shields.io/badge/03-API%20INTEGRATION-542A70?style=for-the-badge&labelColor=00D4FF&color=542A70" alt="API Integration"/> ➜
+<img src="https://img.shields.io/badge/04-REAL--WORLD%20APPS-00D4FF?style=for-the-badge&labelColor=070B18&color=00D4FF" alt="Real-World Apps"/>
+
+</div>
 
 <br/>
 
@@ -110,13 +108,15 @@ Backend services, REST APIs, databases, and full-stack integration.
 
 ## `◈ FEATURED PROJECTS`
 
-<!-- 👇 Replace YOUR-REPO-1 / YOUR-REPO-2 with your actual repository names -->
-<div align="center">
+<!--
+  OPTIONAL: to show project cards, delete the arrows of this comment and replace
+  YOUR-REPO-1 / YOUR-REPO-2 with your real repository names (exact spelling).
 
 <a href="https://github.com/CHS18-77/YOUR-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CHS18-77&repo=YOUR-REPO-1&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=9B8AFF&text_color=C9D1D9" width="48%" alt="Featured project 1"/></a>
 <a href="https://github.com/CHS18-77/YOUR-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CHS18-77&repo=YOUR-REPO-2&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=9B8AFF&text_color=C9D1D9" width="48%" alt="Featured project 2"/></a>
+-->
 
-<br/>
+<div align="center">
 
 <a href="https://github.com/CHS18-77?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore my code"/></a>
 
@@ -137,19 +137,9 @@ Backend services, REST APIs, databases, and full-stack integration.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CHS18-77&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies"/>
+<img src="https://ghchart.rshah.org/00D4FF/CHS18-77" width="90%" alt="Contribution calendar"/>
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>📈 Contribution activity graph (click to expand)</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHS18-77&bg_color=070B18&color=00D4FF&line=8B5CF6&point=FFFFFF&area=true&area_color=182B55&hide_border=true" width="100%" alt="Contribution graph"/>
-</div>
-</details>
 
 <br/>
 
