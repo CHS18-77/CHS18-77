@@ -2,11 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:070B18,45:182B55,75:542A70,100:00D4FF&text=CHETHAN%20H%20S&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%2F%20SOFTWARE%20ENGINEERING&descSize=13&descAlignY=60" width="100%" alt="Futuristic AI engineer banner"/>
 
-<br/>
-
-<img src="blob:https://web.whatsapp.com/96d438be-5e60-4fd8-8c44-398c60490e69" width="190" alt="Chethan H S — AI Engineer"/>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/CHS18-77?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Projects"/></a>
