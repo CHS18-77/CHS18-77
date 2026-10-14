@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/CHS18-77?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-<img src="https://komarev.com/ghpvc/?username=CHS18-77&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge" alt="Profile views"/>
+<img src="https://hits.sh/github.com/CHS18-77.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00D4FF&labelColor=182B55" alt="Profile views"/>
 
 <br/><br/>
 
