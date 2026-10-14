@@ -1,134 +1,92 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:080B18,45:142B55,75:542A70,100:00D4FF&text=CHETHAN%20H%20S&fontColor=FFFFFF&fontSize=54&fontAlignY=42&desc=AI%20ENGINEER%20%2F%2F%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=62" width="100%" alt="Chethan H S — AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=160&section=header&text=CHETHAN%20H%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=AI%20ENGINEERING%20%2F%2F%20INTELLIGENT%20SYSTEMS&descSize=14&descAlignY=72" width="100%" alt="Chethan H S"/>
 
 <br/>
 
-<img src="./assets/profile.png" width="190" alt="Chethan H S — profile portrait"/>
+<img src="https://raw.githubusercontent.com/CHS18-77/CHS18-77/main/assets/profile.png" width="200" alt="Chethan H S"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/"><img src="https://img.shields.io/badge/LINKEDIN-00C6FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://github.com/CHS18-77"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=black" alt="GitHub"/></a>
-&nbsp;
-<a href="https://github.com/CHS18-77?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Explore projects"/></a>
+<a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/">LinkedIn</a> &nbsp; ◈ &nbsp;
+<a href="https://github.com/CHS18-77">GitHub</a> &nbsp; ◈ &nbsp;
+<a href="https://github.com/CHS18-77?tab=repositories">Projects</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=650&lines=Engineering+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+Computer+Vision;AI+Research+meets+Software+Engineering" alt="Animated introduction"/>
-
-<br/>
-
-*Turning complex problems into intelligent, practical solutions.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=650&lines=Generative+AI+%2F%2F+LLMs+%2F%2F+RAG;Agentic+AI+%2F%2F+Intelligent+Automation;Machine+Learning+%2F%2F+Computer+Vision;From+AI+Experiments+to+Real+Applications" alt="AI engineering specialties"/>
 
 </div>
 
 ---
 
-### `01 / PROFILE`
+## `01 — About`
 
-I'm **Chethan H S**, focused on building intelligent applications that combine AI capabilities with reliable software engineering.
+AI engineer focused on building intelligent applications at the intersection of **Artificial Intelligence and Software Engineering**.
 
-I enjoy working across the AI development lifecycle — from data preparation and model experimentation to API development, application integration, and deployment.
+I work across model development, data processing, AI-powered applications, and backend integration, with a strong interest in turning experimental ideas into practical solutions.
 
-My goal is to build systems that are not only intelligent, but also useful, maintainable, and scalable.
+- **AI & ML:** Machine Learning, Deep Learning, NLP, Computer Vision
+- **Generative AI:** LLMs, RAG, prompt engineering, Agentic AI
+- **Engineering:** Python, REST APIs, databases, application development
+- **Mindset:** Build thoughtfully. Evaluate rigorously. Improve continuously.
 
-- **AI:** Machine Learning, Deep Learning, NLP, Computer Vision
-- **Generative AI:** LLMs, RAG, prompt engineering, AI agents
-- **Engineering:** Python, backend APIs, databases, application development
-- **Approach:** Experiment, evaluate, build, and improve
-
-### `02 / TECHNOLOGY MATRIX`
+## `02 — Technologies`
 
 <div align="center">
 
-**LANGUAGES**
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Languages"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI and computer vision"/>
 
-**AI / MACHINE LEARNING**
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mysql,mongodb,sqlite&theme=dark" alt="Backend and databases"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI technologies"/>
-
-**BACKEND / DATA**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mysql,mongodb,sqlite&theme=dark" alt="Backend and database technologies"/>
-
-**FRONTEND / CLOUD / TOOLS**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,docker,git,github,azure,gcp,firebase&theme=dark" alt="Development tools and platforms"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,docker,git,github,azure,gcp,firebase&theme=dark" alt="Software and cloud tools"/>
 
 </div>
 
-### `03 / WHAT I'M BUILDING TOWARD`
+<p align="center">
+<sub>MACHINE LEARNING · GENERATIVE AI · BACKEND ENGINEERING · INTELLIGENT SYSTEMS</sub>
+</p>
 
-<details>
-<summary><b>01 — Generative AI & Intelligent Agents</b></summary>
+## `03 — Selected Projects`
 
-Building applications powered by language models, retrieval pipelines, tool use, and agentic workflows.
+**AI / Machine Learning**  
+Predictive modeling, intelligent classification, and data-driven applications.
 
-</details>
+**Generative AI / LLMs**  
+Language-model applications, retrieval workflows, and intelligent automation.
 
-<details>
-<summary><b>02 — Applied Machine Learning</b></summary>
+**Computer Vision**  
+Image analysis, visual recognition, and object detection.
 
-Developing predictive models and intelligent systems, with attention to data quality, evaluation, and practical performance.
+**Software Engineering**  
+APIs, backend services, and integrated applications.
 
-</details>
+<p align="center">
+<a href="https://github.com/CHS18-77?tab=repositories">EXPLORE MY PROJECTS →</a>
+</p>
 
-<details>
-<summary><b>03 — Computer Vision</b></summary>
-
-Exploring image classification, object detection, visual feature extraction, and real-world vision applications.
-
-</details>
-
-<details>
-<summary><b>04 — Software Engineering</b></summary>
-
-Connecting models to APIs, databases, and application interfaces to deliver complete, usable systems.
-
-</details>
-
-### `04 / SELECTED WORK`
-
-Explore my repositories for implementations in AI, machine learning, computer vision, and software development.
+## `04 — GitHub Analytics`
 
 <div align="center">
 
-<a href="https://github.com/CHS18-77?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="View all repositories"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=CHS18-77&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9" width="48%" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHS18-77&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9" width="40%" alt="Most used languages"/>
 
 </div>
 
-*Tip: Pin your strongest projects on your GitHub profile so visitors can immediately see your actual implementations, technologies, and results.*
-
-### `05 / GITHUB ACTIVITY`
+## `05 — Connect`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CHS18-77&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub statistics"/>
+If you're working on an interesting AI or software project, let's connect.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHS18-77&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=C9D1D9" width="41%" alt="Most used programming languages"/>
-
-</div>
-
-### `06 / CONNECT`
-
-Interested in AI engineering, building useful software, or collaborating on a technical project?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/"><img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/CHS18-77">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/CHS18-77?tab=repositories">Projects</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/">LinkedIn</a>
-
-<br/><br/>
-
-<sub>BUILD WITH PURPOSE · THINK DEEPLY · SHIP INTELLIGENTLY</sub>
+<sub>THINK · BUILD · EXPERIMENT · INNOVATE</sub>
 
 </div>
