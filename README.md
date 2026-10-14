@@ -1,24 +1,110 @@
-# 💫 About Me:
-## Chethan H S<br><br>AI Engineer passionate about designing scalable AI solutions using Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.<br><br>I build end-to-end applications—from data processing and model development to backend APIs and deployment. My repositories showcase practical AI implementations focused on solving real-world challenges.<br><br>**Areas of Interest**<br><br>* Generative AI<br>* Large Language Models (LLMs)<br>* Retrieval-Augmented Generation (RAG)<br>* Natural Language Processing<br>* Computer Vision<br>* Deep Learning<br>* Backend Engineering<br><br>📫 Open to collaborating on AI, ML, and backend engineering projects.<br>
+ <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123B67,100:FF6B35&height=220&section=header&text=CHETHAN%20H%20S&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=58&descSize=15" width="100%" alt="Chethan H S — AI Engineer"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7452570831) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_chethan_h_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CHETHAN H S) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HS_273) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@CHETHAN H S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chethanhs427@gmail.com) 
+<img src="./assets/profile.png" width="180" alt="Chethan H S"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=CHS18-77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=CHS18-77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CHS18-77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CHS18-77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://github.com/CHS18-77">
+<img src="https://img.shields.io/badge/GitHub-CHS18--77-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+Intelligent+Automation;Backend+Engineering+%7C+API+Development;Building+AI+Solutions+for+Real+Problems" alt="Animated AI Engineering Introduction"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=CHS18-77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> whoami`
+
+I'm **Chethan H S**, passionate about building intelligent systems that connect AI innovation with real-world applications.
+
+My work and interests span Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Computer Vision, and software engineering. I enjoy transforming ideas into practical applications through model development, API integration, data-driven problem-solving, and end-to-end implementation.
+
+- 🤖 Exploring Generative AI, LLMs, RAG, and Agentic AI
+- 🧠 Building machine learning and deep learning solutions
+- 👁️ Working with computer vision and intelligent classification systems
+- 🔌 Developing backend APIs and AI-powered applications
+- 📊 Interested in data engineering, analytics, and scalable architectures
+- 🚀 Continuously learning, experimenting, and building
+- 🤝 Open to collaborating on AI, ML, and software development projects
+
+## `> tech_stack --all`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn,fastapi,flask,django,react,nextjs,html,css,postgres,mysql,mongodb,sqlite,docker,git,github,linux,azure,gcp,firebase&perline=8" alt="Programming, AI, development, and cloud technologies"/>
+
+</div>
+
+**Core interests:** Generative AI · LLMs · RAG · NLP · Computer Vision · Deep Learning · REST APIs · Backend Engineering
+
+## `> featured_work`
+
+I build projects that combine intelligent models, data-driven insights, and practical software engineering.
+
+| Area | What I build |
+|---|---|
+| 🤖 AI & ML | Predictive models and intelligent applications |
+| 🧠 Generative AI | LLM-powered solutions and RAG workflows |
+| 👁️ Computer Vision | Image classification and visual intelligence |
+| 🌍 Data & Analytics | Data processing, analysis, and forecasting |
+| ⚙️ Software Engineering | APIs, backend systems, and end-to-end applications |
+
+<div align="center">
+
+<a href="https://github.com/CHS18-77?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-Visit%20Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
+</a>
+
+</div>
+
+## `> github_analytics`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CHS18-77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHS18-77&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CHS18-77&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+## `> achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CHS18-77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies"/>
+
+</div>
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/chethan-h-s-7143762b5/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/CHS18-77">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### *Build. Experiment. Learn. Innovate.*
+
+*Turning ideas into intelligent solutions, one project at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:123B67,100:050816&height=100&section=footer" width="100%" alt="Decorative footer banner"/>
+
+</div>
